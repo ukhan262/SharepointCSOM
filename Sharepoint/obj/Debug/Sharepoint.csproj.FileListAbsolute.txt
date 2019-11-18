@@ -1,0 +1,10 @@
+C:\Users\ukhan\source\repos\Sharepoint\Sharepoint\bin\Debug\Sharepoint.exe.config
+C:\Users\ukhan\source\repos\Sharepoint\Sharepoint\bin\Debug\Sharepoint.exe
+C:\Users\ukhan\source\repos\Sharepoint\Sharepoint\bin\Debug\Sharepoint.pdb
+C:\Users\ukhan\source\repos\Sharepoint\Sharepoint\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\ukhan\source\repos\Sharepoint\Sharepoint\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\ukhan\source\repos\Sharepoint\Sharepoint\obj\Debug\Sharepoint.csprojAssemblyReference.cache
+C:\Users\ukhan\source\repos\Sharepoint\Sharepoint\obj\Debug\Sharepoint.csproj.CoreCompileInputs.cache
+C:\Users\ukhan\source\repos\Sharepoint\Sharepoint\obj\Debug\Sharepoint.csproj.CopyComplete
+C:\Users\ukhan\source\repos\Sharepoint\Sharepoint\obj\Debug\Sharepoint.exe
+C:\Users\ukhan\source\repos\Sharepoint\Sharepoint\obj\Debug\Sharepoint.pdb
